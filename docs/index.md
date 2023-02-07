@@ -168,3 +168,5 @@ below code is used to store data in the Firebase Firestore database.
             }
         });
 ```
+
+### Time Required : 1 hours 20 minutes
