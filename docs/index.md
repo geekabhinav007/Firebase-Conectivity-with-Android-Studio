@@ -2,7 +2,7 @@
 
 Firebase is a backend platform for building web, Android and iOS applications. It offers real-time database, authentication services, storage solutions, and various other tools and services to help developers build high-quality apps faster. Firebase is developed by Google and is available as a cloud service, with support for multiple programming languages.
 
-## what we use Firebase?
+## Why we use Firebase?
 
 There are several reasons why developers choose to use Firebase:
 
@@ -18,7 +18,7 @@ There are several reasons why developers choose to use Firebase:
 
 - Affordable: Firebase provides many services for free or at a very affordable cost, making it a cost-effective solution for small and large scale applications.
 
-## what are the alternatives of firebase?
+## What are the alternatives of firebase?
 
 Some alternatives to Firebase include:
 
